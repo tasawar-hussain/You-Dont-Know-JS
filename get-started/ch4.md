@@ -107,7 +107,7 @@ The final book in the series, *ES.Next & Beyond*, in some respects stands alone.
 
 A final note on continuing your learning journey with JS, and your path through the rest of this book series: be aware of the *grain* -- recall various references to *grain* earlier in this chapter.
 
-First, consider the *grain* of how most people approach and use JS. You've probably already noticed that these books cut against that *grain* in many respects. In YDKJSY, I respect you the reader enough to explain all the parts of JS, not only some select popular parts. I believe you're both capable and deserving of that knowledge.
+First, consider the *grain* of how most people approach and use JS. You've probably already noticed that these books cut against that *grain* in many respects. In YDKJS, I expect you to read enough to explain all the parts of JS, not only some select popular parts. I believe you're both capable and deserving of that knowledge.
 
 But that is not what you'll find from a lot of other material out there. It also means that the more you follow and adhere to the guidance from these books -- that you think carefully and analyze for yourself what's best in your code -- the more you will stand out. That can be a good and bad thing. If you ever want to break out from the crowd, you're going to have to break from how the crowd does it!
 
